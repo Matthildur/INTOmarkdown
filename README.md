@@ -31,9 +31,13 @@ CTRL + D
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Í fyrstu gekk erfiðlega gera git push, fengum alltaf 403 error. En við föttuðum þá vorum við ekki að vinna í forkinu heldur vorum við að reyna að pusha til Daníels.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Þegar við vorum komin með okkar fork inn á tölvuna gekk þetta eins og í sögu. 
+
+Skipting verkefna var frekar basic, "commentaðu þarna og ég commenta þarna" og svo bætt við einu falli í byrjunni á main(). Simple.
+
+[Linkur á okkar útgáfu af verkefninu](https://github.com/Matthildur/INTOPrufa.git)
 
 ## 4. Uppsettur hugbúnaður
 
