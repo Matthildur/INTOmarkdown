@@ -9,10 +9,11 @@ Sigmar:
 
 Ég setti upp Debian án X11 (eða heitir það xorg?) í VirtualBox. Ég sótti ISO mynd af netinu og gerði netinstall og valdi þá pakka sem ég vildi. Sem sagt frekar basic setup. En já frekar einfalt.
 
-![Sigmar - Debian](https://dl-web.dropbox.com/get/Screenshots/Screenshot%202013-10-16%2022.03.33.png?w=AAA6sKFt-iry6wnuMgki2DvVnGtPrFbsmJP5C0GAhhWWJw)
+![Sigmar - Debian](http://i.imgur.com/qG5nhn2.png)
 
 ## 2. Uppsetning á vim && git
 
+Sigmar:
 Það var frekar einfalt að setja þetta upp. Reyndar þurfti ég að byrja á að setja upp sudo:
 
 su
