@@ -20,8 +20,8 @@ I installed Ubuntu a few months back and It wasn’t difficult to install Ubuntu
 **Sigmar Þór:** 
 Það var frekar einfalt að setja þetta upp. Reyndar þurfti ég að byrja á að setja upp sudo:
 
-su
-apt-get install sudo
+su<br>
+apt-get install sudo<br>
 CTRL + D
 
 Þá gat ég gert sudo apt-get install vim og sudo apt-get install git.
