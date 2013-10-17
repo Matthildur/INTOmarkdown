@@ -6,7 +6,7 @@
 
 **Sigmar:**
 
-Ég setti upp Debian án X11 (eða heitir það xorg?) í VirtualBox. Ég sótti ISO mynd af netinu og gerði netinstall og valdi þá pakka sem ég vildi. Sem sagt frekar basic setup. En já frekar einfalt. Debian var fyrsta distroið sem ég notaði - setti það upp í fyrsta skipti fyrir u.þ.b. 10 árum síðan.
+Ég setti upp Debian, án X servers, í VirtualBox. Ég sótti ISO mynd af netinu og gerði netinstall og valdi þá pakka sem ég vildi. Sem sagt frekar basic setup. En já frekar einfalt. Debian var fyrsta distroið sem ég notaði - setti það upp í fyrsta skipti fyrir u.þ.b. 10 árum síðan.
 
 ![Sigmar - Debian](http://i.imgur.com/qG5nhn2.png)
 
@@ -18,7 +18,7 @@ I installed Ubuntu a few months back and It wasn’t difficult to install Ubuntu
 ## 2. Uppsetning á vim && git
 
 **Sigmar Þór:** 
-Það var frekar einfalt að setja þetta upp. Reyndar þurfti ég að byrja á að setja upp sudo:
+Það var frekar einfalt að setja þetta upp. Reyndar þurfti ég að byrja á að setja upp sudo, því ég vil ekki vinna í root:
 
 su<br>
 apt-get install sudo<br>
