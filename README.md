@@ -26,6 +26,7 @@ CTRL + D
 
 Þá gat ég gert sudo apt-get install vim og sudo apt-get install git.
 
+sudo is cool.
 
 **Matthildur:** Used apt-get. Had no problems. 
 
@@ -42,15 +43,15 @@ Skipting verkefna var frekar basic, "commentaðu þarna og ég commenta þarna" 
 ## 4. Uppsettur hugbúnaður
 
 **Matthildur:**
-+ Mozilla Firefox - MPL (Mozilla  http://mxr.mozilla.org/Public License)
-+ Thunderbird - MPL (Mozilla Public License) http://mxr.mozilla.org/
++ Mozilla Firefox - MPL (Mozilla Public License) - http://mxr.mozilla.org/
++ Thunderbird - MPL (Mozilla Public License) - http://mxr.mozilla.org/
 + Freemind - GNU GPL V2+ - http://sourceforge.net/projects/freemind/files/
 
 
 **Sigmar:**
-+ GIMP - GNU - General public license v3http://www.gimp.org/downloads/ or https://git.gnome.org/browse/gimp/
++ GIMP - GNU - General public license v3 - http://www.gimp.org/downloads/ or https://git.gnome.org/browse/gimp/
 + Open Office - GNU Lesser general public license v3 - http://www.openoffice.org/download/other.html#source
-+ VLC - GNU General Public License- https://wiki.videolan.org/VLC_Source_code/
++ VLC - GNU General Public License - https://wiki.videolan.org/VLC_Source_code/
 
 
 ## 5. Unnið með Git (2. hluti)
