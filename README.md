@@ -8,12 +8,12 @@
 
 Ég setti upp Debian, án X servers, í VirtualBox. Ég sótti ISO mynd af netinu og gerði netinstall og valdi þá pakka sem ég vildi. Sem sagt frekar basic setup. En já frekar einfalt. Debian var fyrsta distroið sem ég notaði - setti það upp í fyrsta skipti fyrir u.þ.b. 10 árum síðan.
 
-![Sigmar - Debian](http://i.imgur.com/qG5nhn2.png)
+![Sigmar - Debian](simmi.png)
 
 **Matthildur:**
 
 I installed Ubuntu a few months back and It wasn’t difficult to install Ubuntu on my laptop. I used a CD and dual booted my computer, so I have both windows 7 & Ubuntu. It was harder to re-install windows than install ubuntu 
-![Matthildur Ubuntu](http://i.imgur.com/Zz1cP4l.jpg)
+![Matthildur Ubuntu](matty.jpg)
 
 ## 2. Uppsetning á vim && git
 
