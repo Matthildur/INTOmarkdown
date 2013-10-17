@@ -6,7 +6,7 @@
 
 **Sigmar:**
 
-Ég setti upp Debian án X11 (eða heitir það xorg?) í VirtualBox. Ég sótti ISO mynd af netinu og gerði netinstall og valdi þá pakka sem ég vildi. Sem sagt frekar basic setup. En já frekar einfalt.
+Ég setti upp Debian án X11 (eða heitir það xorg?) í VirtualBox. Ég sótti ISO mynd af netinu og gerði netinstall og valdi þá pakka sem ég vildi. Sem sagt frekar basic setup. En já frekar einfalt. Debian var fyrsta distroið sem ég notaði - setti það upp í fyrsta skitpti fyrir u.þ.b. 10 árum síðan.
 
 ![Sigmar - Debian](http://i.imgur.com/qG5nhn2.png)
 
